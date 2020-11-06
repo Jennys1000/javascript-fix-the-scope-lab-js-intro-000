@@ -9,8 +9,8 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  variable = n + two
-  return n
+  var num = n + two
+  return num
 }
 
   // Feel free to move things around!
