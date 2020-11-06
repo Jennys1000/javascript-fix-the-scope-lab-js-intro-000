@@ -18,4 +18,4 @@ function add2(n) {
     return "FUNKY!"
   }
 }
-var theFunk = 'funky!'
+var theFunk = 'FUNKY!'
